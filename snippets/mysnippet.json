@@ -1,0 +1,12 @@
+{
+    "My CSS Snippet": {
+      "prefix": "mycss",
+      "body": [
+        "/* My CSS Snippet */",
+        "selector {",
+        "  property: value;",
+        "}"
+      ],
+      "description": "My custom CSS snippet"
+    }
+  }

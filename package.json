@@ -1,0 +1,20 @@
+{
+  "name": "jktest-css",
+  "displayName": "JKTest-CSS",
+  "description": "Testing CSS As VScode Extension",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
